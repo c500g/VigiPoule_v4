@@ -3,7 +3,7 @@ Projet porte de poulailler automatique (04/2026)
 
 ## 1. PRESENTATION
 
-Le VigiPoule est un dispositif d’ouverture et de fermeture automatique de porte de poulailler.
+Le VigiPoule est un dispositif d’ouverture et de fermeture automatique de porte de poulailler.  
 La v4 « Padoue » du VigiPoule garde le coeur du fonctionnement à base d’Arduino Nano mais intégre plusieurs changement majeurs :
 
 1. l’ajout du module horaire DS3231 permet une ouverture/fermeture plus fiable, par tous les temps, de la porte avec l’utilisation d’horaires pré-enregistrés (eeprom) differents selon le mois de l’année (*ce qui est une fonctionalité non proposée dans les appareils du commerce à ma connaissance*).  
